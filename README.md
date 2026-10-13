@@ -3,7 +3,7 @@
                 
 <h3 align="center">A passionate developer from India 🇮🇳 </h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=Adarsha8425&label=Profile%20views&color=0e75b6&style=flat" alt="Adarsha8425" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=Adarsha8425&label=Profile%20views&color=0e75b6&style=flat" alt="AdarshaMN" /> </p>
  
 ~ 👨🏻‍💻 i'm Graduate!
 
@@ -17,7 +17,7 @@
 
 <h3 align="left">GitHub Status:</h3> 
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Adarsha8425&" alt="Adarsha8425"  /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=AdarshaMN&" alt="AdarshaMN"  /></p>
 
 
 ## 🌐 Socials:
